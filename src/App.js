@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload, unless you're a pussy.
         </p>
         <p>
-          ... yeah, you're a total puss
+          ... yeah, you're a total puss, aren't you?
         </p>
         <a
           className="App-link"
